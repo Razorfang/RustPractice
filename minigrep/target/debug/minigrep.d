@@ -1,0 +1,1 @@
+/home/mimobuntu/Repositories/Rust/RustPractice/minigrep/target/debug/minigrep: /home/mimobuntu/Repositories/Rust/RustPractice/minigrep/src/lib.rs /home/mimobuntu/Repositories/Rust/RustPractice/minigrep/src/main.rs
